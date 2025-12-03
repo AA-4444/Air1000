@@ -25,7 +25,7 @@ export const CappenContact = () => {
         </motion.h2>
 
         <motion.a
-          href="#shop"
+          href="/product"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
